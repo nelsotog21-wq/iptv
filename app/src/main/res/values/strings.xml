@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IPTV Player</string>
+    <string name="playlist_hint">URL de lista IPTV (.m3u)</string>
+    <string name="load_playlist">Cargar</string>
+    <string name="empty_playlist_error">Ingresa la URL de una playlist M3U.</string>
+    <string name="playlist_load_error">No se pudo cargar la playlist.</string>
+    <string name="empty_channels_error">No se encontraron canales válidos.</string>
+    <string name="now_playing">Reproduciendo: %1$s</string>
+</resources>
